@@ -1,2 +1,2 @@
-# rsschool
-https://dlaxmytkina.github.io/rsschool-cv/cv 
+# rsschool-cv
+https://dlaxmytkina.github.io/rsschool-cv/
